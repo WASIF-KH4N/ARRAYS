@@ -2,7 +2,7 @@
 using namespace std;
 int main(){
 
-  //1D arrray
+                                                           //1D arrray
   /*int a[3]={1,2,3};
   cout<<a[0];
     int arr[10]={1,2,3,4,5,6,7,8,9,10};
@@ -32,7 +32,7 @@ int main(){
 }*/
 
 
-  //2D array
+                                                             //2D array
  /* int arr[4][4]={1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16};
   cout<<arr[3][3]<<endl;//16
   cout<<arr[2][2]<<endl;//11
@@ -48,7 +48,7 @@ int main(){
    cout<<endl;
   }*/
 
-  // 3D array
+                                                            //3D array
  int arr[3][4][5] = {
   {
     {1, 2, 3, 4, 5},
